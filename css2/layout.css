@@ -1,0 +1,362 @@
+
+
+.header_container
+{
+    width: 1042px;
+    background:#7dd9e8;
+   
+   margin: 0 auto;
+
+    
+    
+}
+
+.Mainbody,.footer{
+    width: 1042px;
+    background:#7dd9e8;
+
+   margin: 0 auto;
+ 
+
+}
+
+.icon_search_logout{
+    width: 100%;
+    background:#7dd9e8;
+    float: left;
+}
+
+.icon_search{
+    background: yellow;
+    width: 60%;
+    float: left;
+    
+}
+
+.username_logout{
+    width: 160px;
+    background: green;
+    color: white;
+    float:right;
+    margin:10px;
+    text-align: right;
+    margin-top: 15px
+    
+}
+
+.navbar{
+    color: white;
+    background: black;
+    float: left;
+    width: 100%;
+}
+
+
+.icon{
+    background: red;
+    float: left;
+    margin:7.25px;
+    padding: 6.25px;
+    padding-left: 1px;
+    padding-right: 1px;
+    width: 225px;
+    text-align: center;
+    margin-top: 15px
+}
+
+.SearchBar{
+    border-style: solid;
+    background: white;
+    border-color: black;
+    width: 310px;
+    float: right;
+    margin: 1px;
+    padding: 1px;
+    color: white;
+    text-align: center;
+    margin-top:30px
+    
+}
+
+.searchtextbox
+{
+    float: left;
+}
+
+.searchButton{
+    float: right;
+}
+
+.margin_container{
+   
+    margin-right: 30px;
+    width: 100%;
+    float: left; 
+    border-style: solid;
+    border-color: green;
+  
+}
+
+.margin_container2{
+
+    border-color: blueviolet;
+   
+  
+}
+
+.margin_container3{
+    border-color: yellow;
+    background:gray;
+    padding-top:10.5px;
+    padding-bottom: 10.5px
+}
+
+
+.nav_bar_menu{
+
+    float: left;
+}
+
+.notification{
+    float: right;
+}
+
+.nav_bar_menu, .notification{
+    margin:5.5px;
+}
+
+.navlist{
+    display: flex;
+    list-style: none;
+}
+
+.navitem{
+    margin-left: 3px;
+    padding: 3px;
+    text-align: center;
+    border-color: red;
+    border-style: solid
+}
+
+.notification1{
+    float: left;
+    border-color: red;
+    border-style: solid;
+    margin-left: 3px;
+    padding: 3px;
+
+}
+
+.notification2{
+    border-color: red;
+    border-style: solid;
+    float:right;
+    margin-left: 3px;
+    padding: 3px;
+}
+
+.left_bar{
+
+    background: gray;
+    width: 20%;
+    float: left;
+
+}
+
+.right_bar{
+    background:white;
+    width: 77%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+.left_bar2{
+float: left;
+background: gold;
+width: 73%
+}
+
+
+.right_bar2{
+float: right;
+width: 23%;
+background: rgb(14, 209, 128);
+margin-left: 23px;
+}
+
+.layout{
+    margin-top: 30px;
+    
+   
+}
+
+.subheading{
+width: 88%;
+background: #7dd9e8;
+text-align: center;
+padding: 13px;
+  
+}
+
+
+.Recent_searches1{
+    list-style: none;
+    background: greenyellow
+}
+
+.recent_search_item{
+    border-style: solid;
+    border-color: black;
+    padding: 2px;
+    margin:2px;
+    margin-top: 5px;
+   
+}
+
+.Tabs{
+    list-style: none;
+    display: flex;
+
+}
+
+.tab{
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-style: solid;
+    border-color: black
+}
+
+
+.Subscribed_back{
+    float: right;
+    margin-right: 132px;
+}
+
+
+.allentries{
+    margin-left: 107px;
+    float: left;
+}
+
+
+.tabheader{
+    margin-top: 8.5px;
+    margin-bottom: 8.5px;
+    float: left;
+    width: 100%
+}
+
+.tab_container{
+    float: left;
+}
+
+
+.entry_list{
+    margin-top:20px;
+    list-style: none;
+   
+    border-style: solid;
+    border-color: black;
+    float: left;
+    width: 100%
+}
+
+
+.entry_item_container
+{
+    
+    display: flex;
+ 
+}
+
+
+.image{
+    background: white;
+    width:75px;
+    padding-top: 70px;
+    border-color: black;
+    border-style: solid;
+    margin:4px;
+    float: left;
+    }
+
+
+    .discription{
+   
+        position: absolute;
+        border-color: black;
+      border-style: solid;
+      margin-left: 100px;
+      margin-top:8px;
+      padding: 5px;
+     
+      width: 440px;
+     
+      }
+
+      .link{
+        color: rgb(255, 23, 93)
+    }
+
+    .subscribed{
+        color:green
+    }
+
+
+    
+.new_entry,.new_comment{
+    color: #4286f4
+    }
+
+    .video_tutorial_list{
+  
+        list-style: none
+    }
+
+
+    .video_tutorial_item{
+        border-color: black;
+        border-style: solid;
+        padding: 2px;
+        margin: 2px;
+        margin-top: 5px
+    }
+
+    .footer_list{
+        list-style: none;
+        display: flex;
+        float: left;
+    }
+
+    .so1{
+        float: left;
+    }
+    .copy_right{
+        float: right;
+       
+    }
+    
+
+    .footer_item
+    {
+        margin-left: 6.5px;
+        margin-right:6.5px;
+        text-align: center
+
+    }
+
+    .webpage{
+        border-style: solid;
+        border-color:red;
+        background:#41B3A3;
+        width: 1112px;
+        margin: 0 auto;
+      float: left;
+      margin-left: 10%;
+     
+      
+    }
+    
